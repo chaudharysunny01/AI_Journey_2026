@@ -22,6 +22,7 @@ Example:
 x = 10 # int
 y = 2.5 # float
 name = "Ram"
+
 #Why int() is Needed
 In Python, when we take input from user using input() function,
 the value is always taken as string (text) by default.
